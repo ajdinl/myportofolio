@@ -2,11 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='container' >
-      <nav className='navbar navbar-expand-lg navbar-light bg-light mb-4 pl-4'>
-      <a className='navbar-brand' href='/'>Home</a>
-      <a className='navbar-brand' href='/questions'>Questions</a>
-      </nav>
+    <div className='container nav bg-light mb-4' >
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="/questions">Questions</a>
     </div>
   )
 }
