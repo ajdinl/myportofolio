@@ -10,10 +10,11 @@ const Home = () => {
         <h6>BIOGRAFIJA / CV</h6>
       </div>
       <div className='d-flex justify-content-center'>
-        <p className='text-left w-75'>
-          <div className='mb-3'>  
+        <div className='text-left w-75'>
+          <div className='mb-2'>
             <b>LIČNE INFORMACIJE </b><br/>
-
+          </div>
+          <div className='mb-3'>
             Ime i prezime: Ajdin Lojić <br/>
             Adresa: Zagrebačka 55a, 71000 Sarajevo, Bosna i Hercegovina <br/>
             Telefon: 061/811-375 <br/>
@@ -21,9 +22,10 @@ const Home = () => {
             Državljanstvo: BiH <br/>
             Datum rođenja: 25.01.1988. <br/>
           </div>
-          <div className='mb-3'>
+          <div className='mb-2'>
             <b>RADNO ISKUSTVO </b><br/>
-            <div className='mb-2 mt-2'>
+          </div>
+            <div className='mb-1'>
             <b>Datumi: Januar 2015. - danas <br/>
             Naziv i adresa poslodavca: ACCOUNTING d.o.o. Agencija za knjigovodstvene poslove. <br/>
             Vrsta posla ili sektor: Knjigovodstvene usluge,promet roba i usluga <br/>
@@ -40,8 +42,8 @@ const Home = () => {
                 • Organizovanje i koordinacija službenih putovanja i sastanaka (rezervacija karata, hotela, rent-a-car), <br/>
                 • Asistencija pretpostavljenim licima u sprovođenju radnih aktivnosti, <br/>
                 • Kreiranje i kniženje dokumentacije ( KUF, KIF ). <br/>
-            </div>
-            <div className='mb-2'>
+          </div>
+          <div className='mb-1'>
             <b>Datumi: 2012. - danas <br/>
             Naziv i adresa poslodavca: UPWORK freelance website <br/>
             Vrsta posla ili sektor: Uređivanje fotografija – Upwork <br/>
@@ -58,8 +60,8 @@ const Home = () => {
                 • Transformacije: pravilne transformacije, nepravilno izobličavanje objekata, <br/>
                 • Faze rada i automatizacija: paleta historije, snimanje stanja dokumenta, paleta akcija, serija komandi, kreiranje, primjena i spremanje vlastitih akcija, <br/>
                 • Priprema za tisak i web: podržani formati, snimanje za web, profili boje, konverzija u CMYK. <br/>
-            </div>
-            <div className='mb-2'>
+          </div>
+          <div className='mb-1'>
             <b>Datumi: 2009. – 2016. <br/>
             Naziv i adresa poslodavca: NEWEVENT d.o.o. Privatni klijenti <br/>
             Vrsta posla ili sektor: Fotografisanje evenata i uređivanje fotografija <br/>
@@ -72,8 +74,8 @@ const Home = () => {
                 • Izveštavanje o rezultatima rada na terenu, <br/>
                 • Obrada materijala, <br/>
                 • Izrada multimedijalne prezentacije. <br/>
-            </div>
-            <div className='mb-2'>
+          </div>
+          <div className='mb-1'>
             <b>Datumi: Maj 2009. – Novambar 2009. <br/>
             Naziv i adresa poslodavca: LORA d.o.o. <br/>
             Vrsta posla ili sektor: Komercijalni sektor <br/>
@@ -89,11 +91,11 @@ const Home = () => {
                 • Vođenje promotivnih aktivnosti i sezonskih akcija u suradnji s timom, <br/>
                 • Odgovornost za planiranu financijsku realizaciju, kao i naplatu kupcima, <br/>
                 • Briga o pozitivnom poslovnom odnosu unutar tima. <br/>
-            </div>
           </div>
-          <div className='mb-3'>
+          <div className='mt-3 mb-2'>
             <b>OBRAZOVANJE I OSPOSOBLJAVANJE </b><br/>
-
+          </div>
+          <div>
             • Datumi: 2014. <br/>
             • Fakultet političkih nauka Univerziteta u Sarajevu, Odsjek za komunikologiju, Poslovno <br/>
               komuniciranje, <br/>
@@ -110,37 +112,43 @@ const Home = () => {
             • J.U. „Željeznički školski centar“ Sarajevo i J.U. „Mješovita srednja škola“ Gračanica, <br/>
             • Pravac obrazovanja: Elektrotehničar, <br/>
             • Nivo u državnoj kvalifikaciji: SSS. <br/>
+          </div>  
+          <div className='mt-3 mb-2'>
+            <b>LIČNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
           </div>
-        <div className='mb-3'>
-        <b>LIČNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
-
-        Poznavanje Engleskog jezika <br/>
-        • Čitanje: Odličan, <br/>
-        • Pisanje: Odličan, <br/>
-        • Izgovor: Dobar. <br/>
+          <div>
+              Poznavanje Engleskog jezika <br/>
+              • Čitanje: Odličan, <br/>
+              • Pisanje: Odličan, <br/>
+              • Izgovor: Dobar. <br/>
+          </div>    
+          <div className='mt-3 mb-2'>>  
+            <b>SOCIJALNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+          </div>
+          <div>
+            Razvijenost interpersonalne komunikacije, adaptibilnost na timski rad, umijeće jasne i precizne komunikacije. Društvenost i spremnost prihvatanja kritike i sugestija, kao i pružanja podrške i davanja savjeta. Vođen željom za stalnim usvajanjem novih znanja i vještina. <br/>
+          </div>
+          <div className='mt-3 mb-2'>
+            <b>OGRANIZACIONE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+          </div>
+          <div>
+            Izražena kreativnost i samoincijativnost, inventivnost pri obavljanu radnih zadataka, odgovornost za osobnu izvedbu poslova i radnih zadatka, otvorenost za nove ideje i inovacije, dobar osjećaj za postavljanje prioriteta i organiziranje posla, dosljedno obavljanje radnih zadataka i poštivanje rokova, rad na multitasking principu i rad pod pritiskom. <br/>
+          </div>
+          <div className='mt-3 mb-2'>
+            <b>TEHNIČKE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+          </div>
+          <div>
+            Odlično poznavanje rada na računaru. Operativni sistemi Windows,Linux, korištenje MS Office paketa (Word, Excel, Powerpoint), odlično poznavanje i korištenje interneta i internet pretraživača. <br/>
+            Odlično poznavanje svih računarskih komponenti (Hardware i Software). Dobro poznavanje rada sa programskim jezicima (javascript/node) te odlično poznavanje rada u programima za grafički dizajn kao što su Photoshop i Lightroom. <br/>
+          </div>
+          <div className='mt-3 mb-2'>
+            <b>DODATNI CERTIFIKATI </b><br/>
+          </div>
+          <div className='mb-4'>
+            Položen vozački ispit za kategoriju A i B (KV državni ispit). <br/>
+            Završen kurs Windows.a I MS Office.a (godina : 2010.). <br/>
+          </div>
         </div>
-        <div className='mb-3'>
-        <b>SOCIJALNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
-
-        Razvijenost interpersonalne komunikacije, adaptibilnost na timski rad, umijeće jasne i precizne komunikacije. Društvenost i spremnost prihvatanja kritike i sugestija, kao i pružanja podrške i davanja savjeta. Vođen željom za stalnim usvajanjem novih znanja i vještina. <br/>
-        </div>
-        <div className='mb-3'>
-        <b>OGRANIZACIONE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
-        Izražena kreativnost i samoincijativnost, inventivnost pri obavljanu radnih zadataka, odgovornost za osobnu izvedbu poslova i radnih zadatka, otvorenost za nove ideje i inovacije, dobar osjećaj za postavljanje prioriteta i organiziranje posla, dosljedno obavljanje radnih zadataka i poštivanje rokova, rad na multitasking principu i rad pod pritiskom. <br/>
-        </div>
-        <div className='mb-3'>
-        <b>TEHNIČKE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
-
-        Odlično poznavanje rada na računaru. Operativni sistemi Windows,Linux, korištenje MS Office paketa (Word, Excel, Powerpoint), odlično poznavanje i korištenje interneta i internet pretraživača. <br/>
-        Odlično poznavanje svih računarskih komponenti (Hardware i Software). Dobro poznavanje rada sa programskim jezicima (javascript/node) te odlično poznavanje rada u programima za grafički dizajn kao što su Photoshop i Lightroom. <br/>
-        </div>
-        <div className='mb-3'>
-        <b>DODATNI CERTIFIKATI </b><br/>
-
-        Položen vozački ispit za kategoriju A i B (KV državni ispit). <br/>
-        Završen kurs Windows.a I MS Office.a (godina : 2010.). <br/>
-        </div>
-        </p>
       </div>
     </div>
   )
