@@ -3,10 +3,10 @@ import React from 'react'
 const Home = () => {
   return (
     <div className='container'>
-      <div className='d-flex justify-content-center'>
+      <div className='d-flex justify-content-center p-4'>
         <h3>Home</h3>        
       </div>
-      <div className='d-flex justify-content-center mb-4 mt-4'>
+      <div className='d-flex justify-content-center mb-4 mt-3'>
         <h6>BIOGRAFIJA / CV</h6>
       </div>
       <div className='d-flex justify-content-center'>
@@ -122,7 +122,7 @@ const Home = () => {
               • Pisanje: Odličan, <br/>
               • Izgovor: Dobar. <br/>
           </div>    
-          <div className='mt-3 mb-2'>>  
+          <div className='mt-3 mb-2'>  
             <b>SOCIJALNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
           </div>
           <div>

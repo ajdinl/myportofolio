@@ -3,7 +3,7 @@ import React from 'react'
 const Questions = () => {
   return (  
     <div className='container align-middle'>
-      <div className='d-flex justify-content-center'>
+      <div className='d-flex justify-content-center p-4'>
         <h3>Questions about me:</h3>
       </div>
       <div className='d-flex justify-content-center'>

@@ -2,9 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='container nav sticky-top bg-light mb-4' >
-      <a className="nav-link text-dark" href="/">Home</a>
-      <a className="nav-link text-dark" href="/questions">Questions</a>
+    <div className='container nav sticky-top bg-info' >
+      <a className="nav-link text-white ml-1" href="/">Home</a>
+      <a className="nav-link text-white" href="/questions">Questions</a>
     </div>
   )
 }
