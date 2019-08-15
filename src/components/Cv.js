@@ -3,7 +3,7 @@ import React from 'react'
 const Cv = () => {
   return (
     <div className='container'>
-      <div className='d-flex justify-content-center mb-4 mt-3'>
+      <div className='d-flex justify-content-center my-4 mr-5 pr-5'>
         <h6>BIOGRAFIJA / CV</h6>
       </div>
       <div className='d-flex justify-content-center'>
