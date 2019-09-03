@@ -136,7 +136,7 @@ const Cv = () => {
           </div>
           <div>
             Odlično poznavanje rada na računaru. Operativni sistemi Windows,Linux, korištenje MS Office paketa (Word, Excel, Powerpoint), odlično poznavanje i korištenje interneta i internet pretraživača. <br/>
-            Odlično poznavanje svih računarskih komponenti (Hardware i Software). Dobro poznavanje rada sa programskim jezicima (javascript/node) te odlično poznavanje rada u programima za grafički dizajn kao što su Photoshop i Lightroom. <br/>
+            Odlično poznavanje svih računarskih komponenti (Hardware i Software). Dobro poznavanje rada sa programskim jezicima (javascript/react, javascript/node) te odlično poznavanje rada u programima za grafički dizajn kao što su Photoshop i Lightroom. <br/>
           </div>
           <div className='mt-3 mb-2'>
             <b>DODATNI CERTIFIKATI </b><br/>
