@@ -116,6 +116,15 @@ const Cv = () => {
               • Reading: Very good, <br/>
               • Writing: Very good, <br/>
               • Communication: Good. <br/>
+          </div>  
+          <div className='mt-3 mb-2'>
+            <b>SOFTWARE DEVELOPER SKILLS </b><br/>
+          </div>
+          <div>
+            • Knowledge od HTML, CSS, Javascript and various frameworks and libraries (React, Router, Redux, Node, Express, Bootstrap), <br/>
+            • Experience with design pattern, frameworks and architecture , <br/>
+            • Knowledge of object-oriented software development methodoloies <br/>
+            • Experience using Git and with version control via Git. <br/>
           </div>    
           <div className='mt-3 mb-2'>  
             <b>SOCIAL ABILITIES AND COMPETENCES </b><br/>
