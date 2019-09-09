@@ -97,16 +97,15 @@ const Cv = () => {
             • Dates: 2012 - 2014. <br/>
             • Faculty of Political Science, University of Sarajevo, Department of communication studies, Business communication, <br/>
             • Direction of Education: Journalism - Business Communication, <br/>
-            • Qualifications: Bachelor of Business Communication. <br/>
+            • Qualifications: Bachelor of Business Communication. <br/><br/>
 
             • Dates: 2010-2011. <br/>
             • J.U. „Mješovita srednja škola“ Gračanica, <br/>
-            • Direction of Education: Motor vehicle driver. <br/>
-
+            • Direction of Education: Motor vehicle driver. <br/><br/>
 
             • Dates: 2003-2007. <br/>
             • J.U. „Željeznički school centar“ Sarajevo and J.U. „Mješovita srednja škola“ Gračanica, <br/>
-            • Direction of Education: Electrical technician. <br/>
+            • Direction of Education: Electrical technician. <br/><br/>
 
           </div>  
           <div className='mt-3 mb-2'>
