@@ -4,146 +4,145 @@ const Cv = () => {
   return (
     <div className='container'>
       <div className='d-flex justify-content-center my-4 mr-5 pr-5'>
-        <h6>BIOGRAFIJA / CV</h6>
+        <h6>BIOGRAPHY / CV</h6>
       </div>
       <div className='d-flex justify-content-center'>
         <div className='text-left w-75'>
           <div className='mb-2'>
-            <b>LIČNE INFORMACIJE </b><br/>
+            <b>PERSONAL INFORMATIONS</b><br/>
           </div>
           <div className='mb-3'>
-            Ime i prezime: Ajdin Lojić <br/>
-            Adresa: Zagrebačka 55a, 71000 Sarajevo, Bosna i Hercegovina <br/>
-            Telefon: 061/811-375 <br/>
+            First and last name: Ajdin Lojić <br/>
+            Address: Zagrebačka 55a, 71000 Sarajevo, Bosna i Hercegovina <br/>
+            Phone number: 061/811-375 <br/>
             E-mail: ajdinl@live.com <br/>
-            Državljanstvo: BiH <br/>
-            Datum rođenja: 25.01.1988. <br/>
+            Github: https://github.com/ajdinl <br/>
+            Nationality: BiH <br/>
+            Date of birth: 25.01.1988. <br/>
           </div>
           <div className='mb-2'>
-            <b>RADNO ISKUSTVO </b><br/>
+            <b>WORK EXPERIENCE </b><br/>
           </div>
             <div className='mb-1'>
-            <b>Datumi: Januar 2015. - danas <br/>
-            Naziv i adresa poslodavca: ACCOUNTING d.o.o. Agencija za knjigovodstvene poslove. <br/>
-            Vrsta posla ili sektor: Knjigovodstvene usluge,promet roba i usluga <br/>
-            Zanimanje ili pozicija: Administrativno-tehnički asistent </b><br/>
-            Glavne aktivnosti i odgovornosti: <br/>
-                • Koordinisanje zadataka i naloga za izvršenje, <br/>
-                • Koordinisanje i obavljanje administrativnih poslova, <br/>
-                • Vođenje evidencija u Excelu i kreiranje izvještaja, <br/>
-                • Vođenje tabele budžeta i blagajne, <br/>
-                • Vođenje evidencije, pripremanje, raspored i protokolisanje ulazne i izlazne pošte, <br/>
-                • Pružanje operativne podrške timu, <br/>
-                • Logistička podrška, <br/>
-                • Administrativna podrška, <br/>
-                • Organizovanje i koordinacija službenih putovanja i sastanaka (rezervacija karata, hotela, rent-a-car), <br/>
-                • Asistencija pretpostavljenim licima u sprovođenju radnih aktivnosti, <br/>
-                • Kreiranje i kniženje dokumentacije ( KUF, KIF ). <br/>
+            <b>Dates: Januar 2015. - today <br/>
+            Name and address of employer: ACCOUNTING d.o.o. Accounting agency. <br/>
+            Type of business or sector: Accounting service,turnover of goods and services <br/>
+            Occupation or Position: Administrative and tehnical assistent </b><br/>
+            Main activities and responsibilities: <br/>
+                • Coordinates tasks and execution orders, <br/>
+                • Coordinating and performing administrative tasks, <br/>
+                • Keep records in Excel and creating reports, <br/>
+                • Keeping a budget and cash register table, <br/>
+                • Keeping records, preparing, scheduling and logging incoming and outgoing mail, <br/>
+                • Provide operational support to the team, <br/>
+                • Logistical support, <br/>
+                • Administrative support, <br/>
+                • Organization and coordination of business trips and meetings(reservation of tickets,hotels,rent-a-car), <br/>
+                • Assistence to superiors in carrying out work activities, <br/>
+                • Creating and posting documentation ( KUF, KIF ). <br/>
           </div>
           <div className='mb-1'>
-            <b>Datumi: 2012. - danas <br/>
-            Naziv i adresa poslodavca: UPWORK freelance website <br/>
-            Vrsta posla ili sektor: Uređivanje fotografija – Upwork <br/>
-            Zanimanje ili pozicija: Fotograf - urednik </b><br/>
-            Glavne aktivnosti i odgovornosti:  <br/>
-                • Osnove digitalne slike: pojam pixela, rezolucija slike,veličina slike, sustavi boje u grafičkoj obradi slike, kanali i dubina boje, <br/>
-                • Selekcija u Photoshopu: vrste, alati, modovi i stilovi selekcije, maske selekcije, meni selekcije, naknadne modifikacije selekcije, <br/>
-                • Obrada fotografije: prilagodba boja, ton, zasićenje i svjetlina boja, upravljanje bojana, palete boja, workflow obrade fotografija, retuširanje i popravak fotografija, <br/>
-                • Layeri: obilježja slojeva slike, paleta layers, prikaz sloja, grupe slojeva, vezanje slojeva, kompozicije slojeva, <br/>
-                • Maske: tipovi i uporaba maski, maska sloja, maskiranje tekstom, stapanje isjecaka u masci, Quick Mask mode, <br/>
-                • Crtanje: osnove vektorskih putanja i točaka, crtanje, crtanje oblicima, kreiranje vlastitih oblika, <br/>
-                • Slikanje: postavke ispune i obruba, načini blendanja boja, transparencija, crtanje kistovima, postavke kistova, upravljanje kistom, izrada vlastitog kista, uzorka i gradijenta, <br/>
-                • Filteri: galerija filtera, filteri u obradi fotografije, filteri specijalnih efekata i izobličavanja, teksture, <br/>
-                • Transformacije: pravilne transformacije, nepravilno izobličavanje objekata, <br/>
-                • Faze rada i automatizacija: paleta historije, snimanje stanja dokumenta, paleta akcija, serija komandi, kreiranje, primjena i spremanje vlastitih akcija, <br/>
-                • Priprema za tisak i web: podržani formati, snimanje za web, profili boje, konverzija u CMYK. <br/>
+            <b>Dates: 2012. - today <br/>
+            Name and address of employer: UPWORK freelance website <br/>
+            Type of business or sector: Photo editing – Upwork <br/>
+            Occupation or Position: Photographer - editor </b><br/>
+            Main activities and responsibilities:   <br/>
+                • Images basics: pixel concept, image resolution,image size, color systems in graphic image processing, channels and color depth, <br/>
+                • Selection in Photoshop: types, tools, modes and styles of selection, selection masks, selection menu, subsequent modifications to the selection, <br/>
+                • Photo processing: color adjustment, tone, color saturation and brightness, color management, color palettes, photoflow workflow, photo retouching and repair, <br/>
+                • Layers: image layer features, layer palette, layer view, layer groups, layer binding, layer composition, <br/>
+                • Masks: Types and uses of masks, layer mask, text masking, mask clipping, Quick Mask mode, <br/>
+                • Drawing: basics of vector trajectories and points, drawing, drawing shapes, creating your own shapes, <br/>
+                • Painting: fill and border settings, color blending modes, transparency, brush drawing, brush settings, brush management, making your own brush, pattern and gradient, <br/>
+                • Filters: filters gallery, filters in photo processing, special effects and distortion filters, textures, <br/>
+                • Transformations: correct transformations, improper distortion of objects, <br/>
+                • Work phases and automation: history palette, document status recording, action palette, command series, creating, applying and saving your own actions, <br/>
+                • Printing and Web Preparation: Supported Formats, Web Recording, Color Profiles, CMYK Conversion. <br/>
           </div>
           <div className='mb-1'>
-            <b>Datumi: 2009. – 2016. <br/>
-            Naziv i adresa poslodavca: NEWEVENT d.o.o. Privatni klijenti <br/>
-            Vrsta posla ili sektor: Fotografisanje evenata i uređivanje fotografija <br/>
-            Zanimanje ili pozicija: Fotograf (freelancer) </b><br/>
-            Glavne aktivnosti i odgovornosti:  <br/>
-                • Fotografisanje evenatara i prostora, <br/>
-                • Izrada video snimka, <br/>
-                • Dizaj i grafika u Photoshopu, <br/>
-                • Prikupljanje dokumentacije klijenta, <br/>
-                • Izveštavanje o rezultatima rada na terenu, <br/>
-                • Obrada materijala, <br/>
-                • Izrada multimedijalne prezentacije. <br/>
+            <b>Dates: 2009. – 2016. <br/>
+            Name and address of employer: NEWEVENT d.o.o. Private client <br/>
+            Type of business or sector: Taking photos of events and photo editing <br/>
+            Occupation or Position: Photographer (freelancer) </b><br/>
+            Main activities and responsibilities:   <br/>
+                • Taking photos of events and places, <br/>
+                • Creating a videos records, <br/>
+                • Design and graphics in Photoshopu, <br/>
+                • Collecting client documentation, <br/>
+                • Reporting on the results of fieldwork, <br/>
+                • Processing of materials, <br/>
+                • Creating a multimedia presentation. <br/>
           </div>
           <div className='mb-1'>
-            <b>Datumi: Maj 2009. – Novambar 2009. <br/>
-            Naziv i adresa poslodavca: LORA d.o.o. <br/>
-            Vrsta posla ili sektor: Komercijalni sektor <br/>
-            Zanimanje ili pozicija: Komercijalista-unapređivač prodaje </b><br/>
-            Glavne aktivnosti i odgovornosti:  <br/>
-                • Komunikacija sa „velikim“ kupcima (tržni centri), <br/>
-                • Obilazak prodajnih mjesta po definiranom rasporedu, <br/>
-                • Ugovaranje i prodaja robe kupcima – kreiranje narudžbi, <br/>
-                • Održavanje odnosa sa trenutnim kupcima, kao i uspostavljanje poslovnog odnosa s potencijalnim novim kupcima, <br/>
-                • Potpuna kontrola postojećeg asortimana unutar prodajnog mjesta, te implementacija novog asortimana i vođenje računa o rokovima, <br/>
-                • Stalna briga oko vizualnog identiteta prodavaonice, <br/>
-                • Pozicioniranje prodajnog asortimana u skladu sa smjernicama kompanije, <br/>
-                • Vođenje promotivnih aktivnosti i sezonskih akcija u suradnji s timom, <br/>
-                • Odgovornost za planiranu financijsku realizaciju, kao i naplatu kupcima, <br/>
-                • Briga o pozitivnom poslovnom odnosu unutar tima. <br/>
+            <b>Dates: May 2009. – November 2009. <br/>
+            Name and address of employer: LORA d.o.o. <br/>
+            Type of business or sector: Commercial sector <br/>
+            Occupation or Position: Commercial sales - promoter </b><br/>
+            Main activities and responsibilities:   <br/>
+                • Communication with “big” customers (malls), <br/>
+                • Touring outlets according to a defined schedule, <br/>
+                • Contracting and selling goods to customers - creating orders, <br/>
+                • Maintaining relationships with current customers as well as establishing business relationships with potential new customers, <br/>
+                • Complete control of the existing assortment within the point of sale, implementation of the new assortment and keeping in mind of deadlines, <br/>
+                • Constant concern over the visual identity of the store, <br/>
+                • Positioning of sales assortment in accordance with company guidelines, <br/>
+                • Manage promotional activities and seasonal actions in collaboration with the team, <br/>
+                • Responsibility for planned financial realization as well as payment to customers, <br/>
+                • Taking care of a positive business relationship within the team. <br/>
           </div>
           <div className='mt-3 mb-2'>
-            <b>OBRAZOVANJE I OSPOSOBLJAVANJE </b><br/>
+            <b>EDUCATION </b><br/>
           </div>
           <div>
-            • Datumi: 2014. <br/>
-            • Fakultet političkih nauka Univerziteta u Sarajevu, Odsjek za komunikologiju, Poslovno <br/>
-              komuniciranje, <br/>
-            • Pravac obrazovanja: Žurnalistika – Poslovno komuniciranje, <br/>
-            • Kvalifikacije: Bakalaureat poslovnog komuniciranja, <br/>
-            • Nivo u državnoj kvalifikaciji: VSS. <br/>
+            • Dates: 2012 - 2014. <br/>
+            • Faculty of Political Science, University of Sarajevo, Department of communication studies, Business communication, <br/>
+            • Direction of Education: Journalism - Business Communication, <br/>
+            • Qualifications: Bachelor of Business Communication. <br/>
 
-            • Datumi: 2010-2011.	 <br/>
+            • Dates: 2010-2011. <br/>
             • J.U. „Mješovita srednja škola“ Gračanica, <br/>
-            • Pravac obrazovanja: Vozac motornih vozila, <br/>
-            • Nivo u državnoj kvalifikaciji: SSS. <br/>
+            • Direction of Education: Motor vehicle driver. <br/>
 
-            • Datumi: 2003-2007.	 <br/>
-            • J.U. „Željeznički školski centar“ Sarajevo i J.U. „Mješovita srednja škola“ Gračanica, <br/>
-            • Pravac obrazovanja: Elektrotehničar, <br/>
-            • Nivo u državnoj kvalifikaciji: SSS. <br/>
+
+            • Dates: 2003-2007. <br/>
+            • J.U. „Željeznički school centar“ Sarajevo and J.U. „Mješovita srednja škola“ Gračanica, <br/>
+            • Direction of Education: Electrical technician. <br/>
+
           </div>  
           <div className='mt-3 mb-2'>
-            <b>LIČNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+            <b>PERSONAL ABILITIES AND COMPETENCES </b><br/>
           </div>
           <div>
-              Poznavanje Engleskog jezika <br/>
-              • Čitanje: Odličan, <br/>
-              • Pisanje: Odličan, <br/>
-              • Izgovor: Dobar. <br/>
+            Knowledge of English <br/>
+              • Reading: Very good, <br/>
+              • Writing: Very good, <br/>
+              • Communication: Good. <br/>
           </div>    
           <div className='mt-3 mb-2'>  
-            <b>SOCIJALNE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+            <b>SOCIAL ABILITIES AND COMPETENCES </b><br/>
           </div>
           <div>
-            Razvijenost interpersonalne komunikacije, adaptibilnost na timski rad, umijeće jasne i precizne komunikacije. Društvenost i spremnost prihvatanja kritike i sugestija, kao i pružanja podrške i davanja savjeta. Vođen željom za stalnim usvajanjem novih znanja i vještina. <br/>
+            Development of interpersonal communication, adaptability to teamwork, skill of clear and precise communication. Sociality and willingness to accept criticism and suggestions, as well as to support and give advice. Driven by the desire to constantly acquire new knowledge and skills. <br/>
           </div>
           <div className='mt-3 mb-2'>
-            <b>OGRANIZACIONE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+            <b>ORGANIZATIONAL ABILITIES AND COMPETENCES </b><br/>
           </div>
           <div>
-            Izražena kreativnost i samoincijativnost, inventivnost pri obavljanu radnih zadataka, odgovornost za osobnu izvedbu poslova i radnih zadatka, otvorenost za nove ideje i inovacije, dobar osjećaj za postavljanje prioriteta i organiziranje posla, dosljedno obavljanje radnih zadataka i poštivanje rokova, rad na multitasking principu i rad pod pritiskom. <br/>
+            Expressed creativity and self-initiative, inventiveness in the performance of work tasks, responsibility for personal performance of work and work tasks, openness to new ideas and innovations, a good sense of setting priorities and organizing work, consistently performing work tasks and meeting deadlines, working on a multitasking principle and working under pressure. <br/>
           </div>
           <div className='mt-3 mb-2'>
-            <b>TEHNIČKE SPOSOBNOSTI I KOMPETENCIJE </b><br/>
+            <b>TECHNICAL ABILITIES AND COMPETENCES </b><br/>
           </div>
           <div>
-            Odlično poznavanje rada na računaru. Operativni sistemi Windows,Linux, korištenje MS Office paketa (Word, Excel, Powerpoint), odlično poznavanje i korištenje interneta i internet pretraživača. <br/>
-            Odlično poznavanje svih računarskih komponenti (Hardware i Software). Dobro poznavanje rada sa programskim jezicima (javascript/react, javascript/node) te odlično poznavanje rada u programima za grafički dizajn kao što su Photoshop i Lightroom. <br/>
+            Excellent computer skills. Operating systems Windows, Linux and use of MS Office (Word, Excel, Powerpoint), excellent knowledge and use of the internet and internet browsers. <br/>
+            Excellent knowledge of all computer components (Hardware and Software). Good knowledge of working with programming languages (javascript / node and javascript / react) and excellent knowledge of working in graphic design applications such as Photoshop and Lightroom. <br/>
           </div>
           <div className='mt-3 mb-2'>
-            <b>DODATNI CERTIFIKATI </b><br/>
+            <b>ADDITIONAL CERTIFICATES </b><br/>
           </div>
           <div className='mb-4'>
-            Položen vozački ispit za kategoriju A i B (KV državni ispit). <br/>
-            Završen kurs Windows.a I MS Office.a (godina : 2010.). <br/>
+            Passed driving test of category A and B (KV state exam). <br/>
+            Windows and MS Office course completed (Year : 2010.). <br/>
           </div>
         </div>
       </div>
