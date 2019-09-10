@@ -15,8 +15,8 @@ const Cv = () => {
             First and last name: Ajdin Lojić <br/>
             Address: Zagrebačka 55a, 71000 Sarajevo, Bosna i Hercegovina <br/>
             Phone number: 061/811-375 <br/>
-            E-mail: ajdinl@live.com <br/>
-            Github: https://github.com/ajdinl <br/>
+            E-mail: <a href="mailto:ajdinl@live.com">ajdinl@live.com</a> <br/>
+            Github: <a href='https://github.com/ajdinl' target='blank'>https://github.com/ajdinl</a> <br/>
             Nationality: BiH <br/>
             Date of birth: 25.01.1988. <br/>
           </div>

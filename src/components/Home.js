@@ -1,25 +1,20 @@
 import React from 'react'
-import myimage from  '../myimg.jpg'
-import Cv from './Cv';
-import Footer from './Footer';
 
 const Home = () => {
   return (
-    <div>
+    <div className='bg-color'>
       <div className='container'>
-        <div className='float-right mr-4 mt-2'>
-          <img src={myimage} alt='myImage' className='rounded border'/>
+        <div className='d-flex justify-content-center text-white p-4 ml-4'>
+          <h1>Hello, I'm Ajdin</h1>
         </div>
-        <div className='d-flex justify-content-center p-4 ml-4 mt-3'>
-          <h3>Ajdin Lojić</h3>
+        <div className='d-flex justify-content-center text-white ml-4'>
+        <p>React and Node Dev</p>
         </div>
-        <div className='d-flex justify-content-center ml-4'>
-        <p>ReactJS Dev</p>
-        </div>
-        <hr/>        
-        <Cv />
+        <div className='d-flex justify-content-center ml-4 pb-3'>
+          <a className='text-white m-1' href="https://github.com/ajdinl/" target='blank'><i class="fab fa-github fa-2x"></i></a>
+          <a className='text-white m-1' href="https://dev.to/ajdinl" target='blank'><i class="fab fa-dev fa-2x"></i></a>                  
+        </div>      
       </div>
-      <Footer />
     </div>
   )
 }
