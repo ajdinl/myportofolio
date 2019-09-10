@@ -3,6 +3,9 @@ import React from 'react'
 const Home = () => {
   return (
     <div className='bg-color'>
+      <div id='stars'></div>
+      <div id='stars2'></div>
+      <div id='stars3'></div>
       <div className='container vh-100'>
         <div className='d-flex justify-content-center text-white p-4 ml-4'>
           <h1>Hello, I'm Ajdin</h1>
