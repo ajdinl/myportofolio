@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='bg-color'>
+    <div className='bg-color overflow-hidden'>
       <div id='stars'></div>
       <div id='stars2'></div>
       <div id='stars3'></div>
