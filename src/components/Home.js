@@ -1,11 +1,10 @@
 import React from 'react'
 
 const Home = () => {
-  document.body.style.background = "#5DBCD2"
   return (
     <div className='bg-color'>
-      <div className='container'>
-        <div className='d-flex justify-content-center text-white p-4 ml-4 mt-4'>
+      <div className='container vh-100'>
+        <div className='d-flex justify-content-center text-white p-4 ml-4'>
           <h1>Hello, I'm Ajdin</h1>
         </div>
         <div className='d-flex justify-content-center text-white ml-4'>
