@@ -14,7 +14,7 @@ const Biography = () => {
           <h3>Ajdin Lojić</h3>
         </div>
         <div className='d-flex justify-content-center ml-4'>
-        <p>ReactJS Dev</p>
+        <p>Full-Stack JS Developer</p>
         </div>
         <hr/>        
         <Cv />
