@@ -73,25 +73,26 @@ const Cv = () => {
             <b>SOFTWARE SKILLS </b><br/>
           </div>
           <div>
-            • MS Office &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i><br/>
-            • Photoshop/Lightroom &ensp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i><br/>
-            • HTML/CSS &ensp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i><br/>
-            • NodeJS &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i><br/>
-            • ReactJS &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i><br/>
-            • SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i><br/>
+            • MS Office &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i><br/></div>
+            • Photoshop/Lightroom &ensp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i><br/></div>
+            • HTML/CSS &ensp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i><br/></div>
+            • NodeJS &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i><br/></div>
+            • ReactJS &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i><br/></div>
+            • SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div><i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i><br/></div>
           </div>    
           <div className='mt-3 mb-2'>  
             <b>HOBBY </b><br/>
           </div>
-          <div>
-          <i class="fas fa-motorcycle fa-3x"></i> &emsp;&emsp; <i class="fas fa-camera fa-3x"></i> &emsp;&emsp;&emsp; <i class="fas fa-chart-line fa-3x"></i><br/>
-          <b>Motorbikes</b> &ensp; <b>Photography</b> &ensp; <b>Crypto Currency</b>
+          <div className="d-inline-flex">
+            <div><i className="fas fa-motorcycle fa-3x"></i> <br/><b>Motorbikes</b></div>
+            <div><i className="fas fa-camera fa-3x pl-2"></i> <br/><b className="pl-2">Photography</b></div>
+            <div><i className="fas fa-chart-line fa-3x pl-2"></i> <br/><b className="pl-2">Crypto Currency</b></div>
           </div>
           <div className='mt-4 mb-2'>
             <b>LANGUAGES </b><br/>
           </div>
           <div>
-            English &ensp;<i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i><br/>
+            English &ensp;<i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="fas fa-circle"></i> <i className="far fa-circle"></i> <i className="far fa-circle"></i><br/>
           </div>
           <div className='mt-4 mb-2'>
             <b>FREELANCING </b>
